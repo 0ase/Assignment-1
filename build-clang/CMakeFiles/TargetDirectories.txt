@@ -1,0 +1,9 @@
+/mnt/d/Assignments/Assignment-1/build-clang/CMakeFiles/intrinsics_gen.dir
+/mnt/d/Assignments/Assignment-1/build-clang/CMakeFiles/omp_gen.dir
+/mnt/d/Assignments/Assignment-1/build-clang/CMakeFiles/acc_gen.dir
+/mnt/d/Assignments/Assignment-1/build-clang/CMakeFiles/RISCVTargetParserTableGen.dir
+/mnt/d/Assignments/Assignment-1/build-clang/CMakeFiles/edit_cache.dir
+/mnt/d/Assignments/Assignment-1/build-clang/CMakeFiles/rebuild_cache.dir
+/mnt/d/Assignments/Assignment-1/build-clang/Assignment-1-IR/CMakeFiles/svfir.dir
+/mnt/d/Assignments/Assignment-1/build-clang/Assignment-1-IR/CMakeFiles/edit_cache.dir
+/mnt/d/Assignments/Assignment-1/build-clang/Assignment-1-IR/CMakeFiles/rebuild_cache.dir

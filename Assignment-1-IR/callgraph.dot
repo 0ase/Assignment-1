@@ -1,0 +1,8 @@
+digraph "Call Graph" {
+	label="Call Graph";
+
+	Node0x55b645216950 [shape=record,shape=box,label="{PTACallGraphNode ID: 0 \{fun: foo\}}"];
+	Node0x55b64521fce0 [shape=record,shape=box,label="{PTACallGraphNode ID: 1 \{fun: main\}|{<s0>1}}"];
+	Node0x55b64521fce0:s0 -> Node0x55b645216950[color=black];
+	Node0x55b64522a2f0 [shape=record,shape=Mrecord,label="{PTACallGraphNode ID: 2 \{fun: llvm.dbg.declare\}}"];
+}
